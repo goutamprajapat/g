@@ -1,7 +1,7 @@
-echo "# web-1" >> README.md
+echo "# potential-octo-meme" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Goutam-prajapat-yso/web-1.git
-git push -u origin main
+git branch -M master
+git remote add origin https://github.com/Goutam-prajapat-yso/potential-octo-meme.git
+git push -u origin master
